@@ -16,8 +16,11 @@ dMTLV is written in C++, Perl and Shell
 ### Installing
 
   git clone https://github.com/sunnyzxh/dMTLV.git
+  
   cd dMTLV
+  
   cd example
+  
   sh test.sh # check if it works
 
 If "job-done", there should be four files under the folder example
