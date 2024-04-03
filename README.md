@@ -1,6 +1,9 @@
 # dMTLV (v1.1)
 dMTLV is a framework for detecting mtDNA variants (SNVs and Indels) from paired-end short-read whole genome sequencing data. Need to note that the reads repetitively mapped to both mtDNA and nDNA reference genome should be discarded before subject to dMTLV in order to remove the artifacts introduced by ref-NUMTs.
 
+Citation:
+Zhuang, X., Ye, R., Zhou, Y. et al. Leveraging new methods for comprehensive characterization of mitochondrial DNA in esophageal squamous cell carcinoma. Genome Med 16, 50 (2024). https://doi.org/10.1186/s13073-024-01319-2
+
 ## Getting Started
 dMTLV is written in C++, Perl and Shell
 
